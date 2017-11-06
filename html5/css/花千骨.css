@@ -1,0 +1,27 @@
+h2 {
+    color: #003580;
+}
+#text {
+    size: 14px;
+    color: #000033;
+}
+.font1 {
+      color: #F00;
+  }
+.font2 {
+    color: #1F87CC;
+}
+.font3 {
+    color: #FAA53B;
+}
+.font4 {
+    color: #0D7114;
+}
+.img1 {
+     height: 160px;
+     width: 100px;
+ }
+.img2{
+    height: 130px;
+    width: 200px;
+}

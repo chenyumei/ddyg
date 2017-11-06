@@ -1,0 +1,18 @@
+p {
+    size: 14px;
+}
+body h2 {
+    size: 16px;
+}
+.first {
+    color: red;
+}
+.first~h2 {
+    color: blue;
+}
+img :first-child{
+    width: 887px;
+    height: 439px;
+
+
+}
